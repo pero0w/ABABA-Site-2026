@@ -1,0 +1,9 @@
+venv/
+.venv/
+env/
+
+.env
+secret.json
+
+__pycache__/
+*.py[cod]
